@@ -18,16 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I received the B.Eng degree in optoelectronic information science from [University of Electronic Science and Technology of China (UESTC)](uestc.edu.cn) in 2023. Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
++ I received the B.Eng degree in optoelectronic information science from [University of Electronic Science and Technology of China (UESTC)](uestc.edu.cn) in 2023 and I have won more than thirty university-level awards during the undergraduate period. Also, I was awarded as an excellent graduates concerning my contributions to the security of Internet of Things. 
++ Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
 + My research interests include Network Security, Wireless Sensing, Signal Processing, as well as the Machine Learning Methods.
 
-# 🔥 Recent News
-- 2023.03: Joined the [BLSP Group](https://blsp-group.github.io/) led by [Prof. Feng Yin](sse.cuhk.edu.cn/faculty/yinfeng).
-- 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
-- 2022.11: Assigned as a research assistant of [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng).
-- 2022.08: Got the PhD offer from [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) with full scholarships. 
-- 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" has been published in *IEEE Sens. J.(IF=4.536, Q1).*
-- 2020.09: Joined the [State Key Laboratory of Electronic Thin Films and Integrated Devices](https://www.nature.com/nature-index/institution-outputs/china/state-key-laboratory-of-electronic-thin-films-and-integrated-devices-uestc/54be192a140ba09d328b4567), supervised by [Prof. Yuanming Wu](https://sose.uestc.edu.cn/info/1022/1928.htm).
+# 🎓 Educations
+## Ph.D in Computer and Information Engineering 
++ [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn), 2023.06 ~ present
+## B.Eng in Electronic Information Engineering
++ [University of Electrronic and Technology of China](uestc.edu.cn), 2019.09 ~ 2023.06
 
 # 📝 Publications 
 
@@ -55,14 +54,4 @@ redirect_from:
 - 2021.12: Chinese College Students Math Contest, **First Prize**.
 - 2021.10: Outstanding Students Scholarship in UESTC (**Top 10%**).
 
-# 📖 Educations
-- 2023.06 - now :  **The Chinese University of Hong Kong, Shenzhen**, Ph.D in Computer and Information Engineering.
-- 2019.09 - 2023.06: **University of Electrronic and Technology of China**, B.Eng in Optoelectronic Science and Engineering.
 
-# 💬 Invited Talks
-- 2022.10: **The 6th UESTC Students Development Conference.**
-- 2022.04: **2022 UESTC Students Sharing Meeting on machine learning.**
- 
-# 💻 Internships
-- 2021.07 - 2021.08: **Big Data in Clouds Corporation**, Guiyang, China.
-- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China.
