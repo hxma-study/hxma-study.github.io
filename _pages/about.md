@@ -23,11 +23,11 @@ redirect_from:
 + For more information, please refer to the latest CV.
 
 # 🎓 Education
-## Ph.D in Computer and Information Engineering 
-[The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn), 2023.06 ~ present
+### 🎓 Ph.D in Computer and Information Engineering 
++ [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn), 2023.06 ~ present
 
-## B.Eng in Electronic Information Engineering
-[University of Electrronic and Technology of China](uestc.edu.cn), 2019.09 ~ 2023.06
+### 🎓 B.Eng in Electronic Information Engineering
++ [University of Electrronic and Technology of China](uestc.edu.cn), 2019.09 ~ 2023.06
 
 # 📝 Publication 
 
@@ -38,7 +38,7 @@ redirect_from:
 
 **Xinyu Huang**, Yuanming Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
+[Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
 - The detection accuracy and the false alarm rate are much lower than other effective methods.
 - We also reduced the computation complexity to $$O(n)$$.
