@@ -4,11 +4,11 @@ main:
     url: "/#-about-me"
 
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
     
-  - title: "Publications"
+  - title: "Publication"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "Award"
     url: "/#-honors-and-awards"
