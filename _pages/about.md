@@ -19,19 +19,17 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 + I received the B.Eng degree in optoelectronic information science from [University of Electronic Science and Technology of China](uestc.edu.cn) in 2023 and I have won more than thirty university-level awards during the undergraduate period. Also, I was awarded as an excellent graduates concerning my contributions to the security of Internet of Things. 
-+ Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang (IEEE Fellow)](https://myweb.cuhk.edu.cn/changtsunghui).
-+ My research interests include Network Security, Wireless Sensing, Signal Processing, as well as the Machine Learning Methods.
-
++ Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang (IEEE Fellow)](https://myweb.cuhk.edu.cn/changtsunghui). My future research will focus on Network Security, Wireless Sensing, Signal Processing, as well as the Machine Learning Methods.
 + For more information, please refer to the latest CV.
 
-# 🎓 Educations
+# 🎓 Education
 ## Ph.D in Computer and Information Engineering 
-+ [The Chinese University of Hong Kong](cuhk.edu.cn), 2023.06 ~ present
+[The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn), 2023.06 ~ present
 
 ## B.Eng in Electronic Information Engineering
-+ [University of Electrronic and Technology of China](uestc.edu.cn), 2019.09 ~ 2023.06
+[University of Electrronic and Technology of China](uestc.edu.cn), 2019.09 ~ 2023.06
 
-# 📝 Publications 
+# 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen. J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,7 +44,7 @@ redirect_from:
 - We also reduced the computation complexity to $$O(n)$$.
 </div></div>
 
-# 🎖 Honors and Awards
+# 🎖 Award
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
 - 2022.11: 2023 UESTC Excellent Graduates (**Top 5%**). 
 - 2022.10: UESTC Outstanding Student Candidates (**Top 1%**).
