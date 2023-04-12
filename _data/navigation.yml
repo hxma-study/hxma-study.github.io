@@ -5,10 +5,10 @@ main:
 
 
   - title: "Education"
-    url: "/#-educations"
+    url: "/#-education"
     
   - title: "Publication"
-    url: "/#-publications"
+    url: "/#-publication"
 
   - title: "Award"
-    url: "/#-honors-and-awards"
+    url: "/#-award"
