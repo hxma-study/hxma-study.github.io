@@ -22,9 +22,12 @@ redirect_from:
 + Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
 + My research interests include Network Security, Wireless Sensing, Signal Processing, as well as the Machine Learning Methods.
 
++ For more information, please refer to the latest CV.
 # 🎓 Educations
+
 ## Ph.D in Computer and Information Engineering 
 + [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn), 2023.06 ~ present
+
 ## B.Eng in Electronic Information Engineering
 + [University of Electrronic and Technology of China](uestc.edu.cn), 2019.09 ~ 2023.06
 
