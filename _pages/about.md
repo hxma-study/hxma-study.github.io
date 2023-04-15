@@ -24,7 +24,7 @@ redirect_from:
 
 # 🎓 Education
 ### 🎓 Ph.D in Computer and Information Engineering 
-+ The Chinese University of Hong Kong, Shenzhen, 2023.06 ~ present
++ Chinese University of Hong Kong, 2023.06 ~ ongoing
 
 ### 🎓 B.Eng in Electronic Information Engineering
 + University of Electrronic and Technology of China, 2019.09 ~ 2023.06
