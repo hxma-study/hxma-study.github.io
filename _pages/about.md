@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍🎓 About Me
 + I received the B.Eng degree in optoelectronic information science from [University of Electronic Science and Technology of China](uestc.edu.cn) in 2023 and I have won more than thirty university-level awards during the undergraduate period. Also, I was awarded as an excellent graduates concerning my contributions to the security of Internet of Things. 
 + Now I am a Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in computer and information engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang (IEEE Fellow)](https://myweb.cuhk.edu.cn/changtsunghui). My future research will focus on Network Security, Wireless Sensing, Signal Processing, as well as the Machine Learning Methods.
-+ For more information, please refer to the latest [CV](xyhuang-cuhk.github.io/files/CV.pdf).
++ For more information, please refer to the latest [CV](/files/CV.pdf).
 
 # 🎓 Education
 ### 🎓 Ph.D in Computer and Information Engineering 
