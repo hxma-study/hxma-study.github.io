@@ -44,6 +44,20 @@ redirect_from:
 - We also reduced the detection complexity to $$O(n)$$ which is much lower than other ML methods.
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)
+
+**Xinyu Huang**, Shunan Li, Yuanming Wu
+
+[Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
+- Utilizing LSTM model to learn from normal data and predict for each node’s forwarding behavior.
+- Adaptive thresholds are employed to identify local anomaly points.
+- A novel neighbor-voting method has been designed to enable self-adaptive detection.
+- Time-variant harsh environments within the network are taken into consideration.
+</div></div>
+
 # 🎖 Award
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
 - 2022.11: 2023 UESTC Excellent Graduates (**Top 5%**). 
