@@ -22,6 +22,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
++ Born in Jiangxi Province, China, in 2001, I am active in life and am willing to be a scientist of data and communication. Deemed to have numerous hobbies, I like playing basketball, playing Go, playing MOBA and I have shown great interests in music and instruments, such as the saxphone and violin.
 + I received the B.Eng. degree in **Optoelectronic Information Engineering** from [University of Electronic Science and Technology of China](uestc.edu.cn) in 2023 and was awarded as an honorable graduate concerning my contributions to the security of Internet of Things. 
 + Now I am a 1st Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in **Computer and Information Engineering**, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang (IEEE Fellow)](https://myweb.cuhk.edu.cn/changtsunghui). My future research will focus on **Network Security, Wireless Sensing, Signal Processing**, as well as the **Machine Learning Methods**.
 + For more information, please refer to the latest version of my [CV](/files/CV.pdf).
@@ -33,10 +34,10 @@ redirect_from:
 + 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in *IEEE Sensors Journal* (*Q1, IF=4.325*).
 
 # 🎓 Education
-### 🎓 Ph.D. in Computer and Information Engineering 
+### Ph.D. in Computer and Information Engineering 
 + Chinese University of Hong Kong (Shenzhen), 2023.08 $\sim$ ongoing
 
-### 🎓 B.Eng. in Electronic and Information Engineering
+### B.Eng. in Electronic and Information Engineering
 + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
 
 # 📝 Publication 
