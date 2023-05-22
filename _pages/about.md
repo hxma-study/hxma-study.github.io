@@ -50,6 +50,7 @@ redirect_from:
 **Xinyu Huang**, Yuanming Wu
 
 *IEEE Sensors Journal*, 2022
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
