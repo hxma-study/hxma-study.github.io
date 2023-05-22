@@ -29,10 +29,10 @@ redirect_from:
 + 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in IEEE Sensors Journal (*Q1, IF=4.325*)!
 
 # 🎓 Education
-### 🎓 $\cdot$ Ph.D. in Computer and Information Engineering 
+### 🎓 Ph.D. in Computer and Information Engineering 
 + Chinese University of Hong Kong (Shenzhen), 2023.08 $\sim$ ongoing
 
-### 🎓 $\cdot$ B.Eng. in Electronic and Information Engineering
+### 🎓 B.Eng. in Electronic and Information Engineering
 + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
 
 # 📝 Publication 
