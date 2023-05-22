@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Xinyu HUANG"
 excerpt: ""
 author_profile: true
 redirect_from: 
