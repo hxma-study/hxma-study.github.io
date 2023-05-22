@@ -25,8 +25,8 @@ redirect_from:
 # 📰 Recent News
 + 2023.08: Join the [BLSP Group](https://blsp-group.github.io) led by [Prof. Feng YIN](https://myweb.cuhk.edu.cn/yinfeng) as a PhD student with full scholarship fundings.
 + 2023.06: Graduated from [UESTC](uestc.edu.cn) and awarded as an honorable graduate student.
-+ 2023.05: Paper entitled "[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)" was published in Elsevier Engineering Applications of Artificial Intelligence Journal (*Q1, IF=7.801*).
-+ 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in IEEE Sensors Journal (*Q1, IF=4.325*).
++ 2023.05: Paper entitled "[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)" was published in *Engineering Applications of Artificial Intelligence* (*Q1, IF=7.801*).
++ 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in *IEEE Sensors Journal* (*Q1, IF=4.325*).
 
 # 🎓 Education
 ### 🎓 Ph.D. in Computer and Information Engineering 
