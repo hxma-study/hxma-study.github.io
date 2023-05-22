@@ -33,14 +33,14 @@ redirect_from:
 + 2023.05: Paper entitled "[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)" was published in *Engineering Applications of Artificial Intelligence* (*Q1, IF=7.801*).
 + 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in *IEEE Sensors Journal* (*Q1, IF=4.325*).
 
-# 🎓 Education
+# 🎓 Educations
 ### Ph.D. in Computer and Information Engineering 
 + Chinese University of Hong Kong (Shenzhen), 2023.08 $\sim$ ongoing
 
-### B.Eng. in Electronic and Information Engineering
+### B.Eng. in Optoelectronic Information Engineering
 + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
 
-# 📝 Publication 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen. J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +67,7 @@ redirect_from:
 - Time-variant harsh environments within the network are taken into consideration.
 </div></div>
 
-# 🎖 Award
+# 🎖 Awards
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
 - 2022.11: 2023 UESTC Excellent Graduates (**Top 5%**). 
 - 2022.10: UESTC Outstanding Student Candidates (**Top 1%**).
