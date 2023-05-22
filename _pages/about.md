@@ -49,10 +49,7 @@ redirect_from:
 
 **Xinyu Huang**, Yuanming Wu
 
-- We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in wireless sensor networks. 
-- The detection accuracy and the false alarm rate are much lower than other effective methods, which are all below 3%.
-- We also reduced the detection complexity to $$O(n)$$ which is much lower than other ML methods.
-</div></div>
+*IEEE Sensors Journal*, 2022
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,10 +58,7 @@ redirect_from:
 
 **Xinyu Huang**, Shunan Li, Yuanming Wu
 
-- Utilizing LSTM model to learn from normal data and predict for each node’s forwarding behavior.
-- Adaptive thresholds are employed to identify local anomaly points.
-- A novel neighbor-voting method has been designed to enable self-adaptive detection.
-- Time-variant harsh environments within the network are taken into consideration.
+*Engineering Applications of Artificial Intelligence*, 2023
 </div></div>
 
 # 🎖 Awards
