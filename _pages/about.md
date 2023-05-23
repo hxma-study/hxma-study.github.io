@@ -41,9 +41,9 @@ redirect_from:
 + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
 
 # 💁 Services
-+ Journal Reviewer of *Engineering Applications of Artificial Intelligence, IEEE Sensors Journal, IEEE Access, Sensors*, etc.
++ Journal Reviewer of *[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [Sensors](https://www.mdpi.com/journal/sensors)*, etc.
 + Teaching Assistant of the [School of Science and Engineering, Chinese University of Hong Kong, Shenzhen](http://sse.cuhk.edu.cn).
-+ Research Assistant of [Prof. Feng Yin, Chinese University of Hong Kong, Shenzhen]((https://myweb.cuhk.edu.cn/yinfeng).
++ Research Assistant of [Prof. Feng Yin, Chinese University of Hong Kong, Shenzhen](https://myweb.cuhk.edu.cn/yinfeng).
 + Student Member of [IEEE](https://ieee.org) since April 2022.
 
 
