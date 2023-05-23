@@ -40,6 +40,15 @@ redirect_from:
 ### B.Eng. in Optoelectronic Information Engineering
 + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
 
+# 💁 Services
++ Journal Reviewer of *Engineering Applications of Artificial Intelligence, IEEE Sensors Journal, IEEE Access, Sensors*, etc.
++ Teaching Assistant of the [School of Science and Engineering, Chinese University of Hong Kong, Shenzhen](http://sse.cuhk.edu.cn).
++ Research Assistant of [Prof. Feng Yin, Chinese University of Hong Kong, Shenzhen]((https://myweb.cuhk.edu.cn/yinfeng).
++ Student Member of [IEEE](https://ieee.org) since April 2022.
+
+
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen. J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
