@@ -23,13 +23,13 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 + Born in Jiangxi Province, China, 2001, I am active in life and am willing to be a scientist of data and communications. Deemed to have numerous hobbies, I like playing basketball, Go, MOBA-games and I have shown great interests in music and instruments, such as saxophone and violin.
-+ I received the B.Eng. degree in **Optoelectronic Information Engineering** from [University of Electronic Science and Technology of China](uestc.edu.cn) in 2023 and was awarded as an honorable graduate concerning my contributions to the security of Internet of Things. 
++ I received the B.Eng. degree in **Optoelectronic Information Engineering** from [University of Electronic Science and Technology of China (UESTC)](uestc.edu.cn) in 2023 and was awarded as an honorable graduate concerning my contributions to the security of Internet of Things. 
 + Now I am a 1st Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in **Computer and Information Engineering**, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang (IEEE Fellow)](https://myweb.cuhk.edu.cn/changtsunghui). My future research will focus on **Network Security, Wireless Sensing, Signal Processing**, as well as the **Machine Learning Methods**.
 + For more information, please refer to the latest version of [CV](/files/CV.pdf).
 
 # 📰 Recent News
 + 2023.08: Join the [BLSP Group](https://blsp-group.github.io) led by [Prof. Feng YIN](https://myweb.cuhk.edu.cn/yinfeng) as a PhD student with full scholarship fundings.
-+ 2023.06: Graduated from [UESTC](uestc.edu.cn) and awarded as an honorable graduate student.
++ 2023.06: Graduated from UESTC and awarded as an honorable graduate student.
 + 2023.05: Paper entitled "[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)" was published in *Engineering Applications of Artificial Intelligence* (*Q1, IF=7.801*).
 + 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in *IEEE Sensors Journal* (*Q1, IF=4.325*).
 
