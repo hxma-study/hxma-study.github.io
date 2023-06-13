@@ -35,7 +35,7 @@ redirect_from:
 
 # 🎓 Educations
 + Ph.D. in Computer and Information Engineering 
-  + Chinese University of Hong Kong (Shenzhen), 2023.08 $\sim$ Present
+  + Chinese University of Hong Kong, Shenzhen, 2023.08 $\sim$ Present
 
 + B.Eng. in Optoelectronic Information Engineering
   + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
