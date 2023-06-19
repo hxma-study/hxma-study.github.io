@@ -28,46 +28,31 @@ redirect_from:
 
 
 # 📰 Recent News
-+ 2023.08: Join the [BLSP Group](https://blsp-group.github.io) led by [Prof. Feng YIN](https://myweb.cuhk.edu.cn/yinfeng) as a PhD student with full scholarship fundings.
-+ 2023.06: Graduated from UESTC and awarded as an honorable graduate student.
-+ 2023.05: Paper entitled "[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)" was published in *Engineering Applications of Artificial Intelligence, Elsevier* (*Q1, IF=7.802*).
-+ 2022.04: Paper entitled "[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)" was published in *IEEE Sensors Journal* (*Q1, IF=4.325*).
++ 2023.05: "Shuyou Cup CIOC Second National Intelligent Optimization Algorithm Competition" won the first place in the multi-objective track.
++ 2023.05: "Shuyou Cup CIOC Second National Intelligent Optimization Algorithm Competition" won the third place in the single-objective track.
++ 2023.03: Paper entitled "[Higher-order Knowledge Transfer for Dynamic Community Detection with Great Changes](https://ieeexplore.ieee.org/abstract/document/10071529)" was published in *IEEE Transactions on Evolutionary Computation* (*(Q1, IF=16.497*).
++ 2021.06: Graduated from [Hainan University](hainanu.edu.cn) and received my B.Eng. degree.
 
 # 🎓 Educations
-+ Ph.D. in Computer and Information Engineering 
-  + Chinese University of Hong Kong, Shenzhen, 2023.08 $\sim$ Present
++ M.Eng. in Computer Science and Engineering 
+  + Xidian University, 2021.09 $\sim$ Present
 
-+ B.Eng. in Optoelectronic Information Engineering
-  + University of Electronic Science and Technology of China, 2019.09 $\sim$ 2023.06
-
-# 💁 Services
-+ Journal Reviewer of *[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [Sensors](https://www.mdpi.com/journal/sensors)*, etc.
-+ Teaching Assistant of the [School of Science and Engineering, Chinese University of Hong Kong, Shenzhen](http://sse.cuhk.edu.cn).
-+ Research Assistant of [Prof. Feng Yin, Chinese University of Hong Kong, Shenzhen](https://myweb.cuhk.edu.cn/yinfeng).
-+ Student Member of [IEEE](https://ieee.org) since April 2022.
++ B.Eng. in Information Security
+  + Hainan University, 2017.09 $\sim$ 2021.06
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen. J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)
+[Higher-order Knowledge Transfer for Dynamic Community Detection with Great Changes](https://ieeexplore.ieee.org/abstract/document/10071529)
 
-**Xinyu Huang**, Yuanming Wu
+**Ma, H.**, Wu, K., Wang, H., & Liu, J. 
 
-*IEEE Sensors Journal*, 2022
+*IEEE Transactions on Evolutionary Computation*, 2023
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments](https://www.sciencedirect.com/science/article/pii/S0952197623006255)
-
-**Xinyu Huang**, Shunan Li, Yuanming Wu
-
-*Engineering Applications of Artificial Intelligence*, 2023
-</div></div>
 
 # 🎖 Awards
 - 2023.01: Asia and Pacific Mathematical Contest in Modeling (APMCM), **First Prize**.
