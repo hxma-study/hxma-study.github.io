@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyu HUANG"
+title: "Huixin MA"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <head>
-  <title>Xinyu HUANG</title>
+  <title>Huixin MA</title>
 </head>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -22,11 +22,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ Born in Jiangxi Province, China, 2001, I am active in life and am willing to be a scientist of data and communications. Deemed to have numerous hobbies, I like playing basketball, Go, MOBA-games and I have shown great interests in music and instruments, such as saxophone and violin.
-+ I received the B.Eng. degree in **Optoelectronic Information Engineering** from [University of Electronic Science and Technology of China (UESTC)](uestc.edu.cn) in 2023 and was awarded as an honorable graduate concerning my contributions to the security of Internet of Things. 
-+ Now I am a 1st Ph.D. student of [The Chinese University of Hong Kong, Shenzhen](cuhk.edu.cn) in **Computer and Information Engineering**, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang (IEEE Fellow)](https://myweb.cuhk.edu.cn/changtsunghui). And I have joined the [BLSP Group](https://blsp-group.github.io) as a postgraduate researcher.
-+ My research directions mainly focus on **Security and Privacy, Wireless Sensing, Signal Processing Issues**, as well as the **Machine Learning Methods**.
-+ For more information, please refer to the latest version of [CV](/files/CV.pdf).
++ Born in Lanzhou City, Gansu Province, China, I received the B.Eng. degree in **Information Security** from [Hainan University](hainanu.edu.cn) in 2021. Now I am working towards my M.Eng. degree in **Computer Science and Engineering**, [Xidian University](xidian.edu.cn), supervised by [Prof. Kai WU](https://web.xidian.edu.cn/kwu/).
++ My research interests include graph for EA, multi-objective evolutionary algorithm, and single-objective evolution algorithm, etc.
++ For more info, please refer to my up-to-date CV.
+
 
 # 📰 Recent News
 + 2023.08: Join the [BLSP Group](https://blsp-group.github.io) led by [Prof. Feng YIN](https://myweb.cuhk.edu.cn/yinfeng) as a PhD student with full scholarship fundings.
