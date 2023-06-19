@@ -43,7 +43,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Higher-order Knowledge Transfer for Dynamic Community Detection with Great Changes](https://ieeexplore.ieee.org/abstract/document/10071529)
@@ -52,16 +52,5 @@ redirect_from:
 
 *IEEE Transactions on Evolutionary Computation*, 2023
 </div></div>
-
-
-# 🎖 Awards
-- 2023.01: Asia and Pacific Mathematical Contest in Modeling (APMCM), **First Prize**.
-- 2022.11: UESTC Excellent Graduates (**Top 5%**). 
-- 2022.10: UESTC Outstanding Student Candidates (**Top 1%**).
-- 2022.09: UESTC **Honor Research Award** (2/302).
-- 2022.02: Mathematical Contest in Modeling (MCM), **Mertorious Winner Award**.
-- 2021.09: Chinese Mathcup Modeling Contest, **First Prize**.
-- 2021.12: Chinese College Students Math Contest, **First Prize**.
-- 2021.10: Outstanding Students Scholarship in UESTC (**Top 10%**).
 
 
