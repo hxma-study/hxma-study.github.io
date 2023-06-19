@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyu HUANG"
-description              : "1st Year PhD @ CUHKSZ"
-repository               : "XinYU-Huang1/XinYU-Huang1.github.io"
+title                    : "Huixin MA"
+description              : "M.Eng. @ Xidian Uni."
+repository               : "hxma-study/hxma-study.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyu HUANG"
-  avatar           : "images/me.png"
+  name             : "Huixin MA"
+  avatar           : "images/Huixin MA.jpeg"
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cuDwCOwAAAAJ&hl=zh-CN"
-  email            : "xyhuang@ieee.org"
-  researchgate     : "https://www.researchgate.net/profile/Xinyu-Huang-56"
+  googlescholar    : 
+  email            : "hxma_study@stu.xidian.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinYu-Huang1"
+  github           : "hxma-study"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-3125-0411"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
