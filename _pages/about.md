@@ -24,7 +24,7 @@ redirect_from:
 # 🧑‍🎓 About Me
 + Born in Lanzhou City, Gansu Province, China, I received the B.Eng. degree in **Information Security** from [Hainan University](hainanu.edu.cn) in 2021. Now I am working towards my M.Eng. degree in **Computer Science and Engineering**, [Xidian University](xidian.edu.cn), supervised by [Prof. Kai WU](https://web.xidian.edu.cn/kwu/).
 + My research interests include graph for EA, multi-objective evolutionary algorithm, and single-objective evolution algorithm, etc.
-+ For more info, please refer to my up-to-date CV.
++ For more info, please refer to my up-to-date [CV](/files/CV-Huixin MA.pdf).
 
 
 # 📰 Recent News
