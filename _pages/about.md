@@ -53,4 +53,7 @@ redirect_from:
 *IEEE Transactions on Evolutionary Computation*, 2023
 </div></div>
 
+# 🏅️ Awards
++ 2023.05: Shuyou Cup CIOC2023 Second National Intelligent Optimization Algorithm Competition (Multi-Objective Optimization), **First Prize**
++ 2023.05: Shuyou Cup CIOC2023 Second National Intelligent Optimization Algorithm Competition (Single Objective Optimization), **Third Prize**
 
